@@ -11,3 +11,5 @@ This file executes a script that compiles a C file and creates an executable nam
 This file writes a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. Use the function puts
 5-printf.c
 This file writes a C program that prints exactly with proper grammar, but the outcome is a piece of art, , followed by a new line. Use the function printf
+6-size.c
+This file writes a C program that prints the size of various types on the computer it is compiled and run on
