@@ -15,3 +15,5 @@ This file writes a C program that prints exactly with proper grammar, but the ou
 This file writes a C program that prints the size of various types on the computer it is compiled and run on
 100-intel
 This file executes a script that generates the assembly code (intel syntax) of a C code and save it in an output file. The C file name will be saved in the variable $CFILE
+101-quote.c
+This file writes a C program that prints a line to standard error
