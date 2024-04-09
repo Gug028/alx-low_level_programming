@@ -1,7 +1,7 @@
 #include "search_algos.h"
 
 /**
- * binary_search - Searches for a value in an sorted array of integers using
+ * binary_search - Searches for a value in a sorted array of integers using
  * the Binary search algorithm.
  * @array: A pointer to the first element of the array to search.
  * @size: Size of the array.
@@ -17,7 +17,7 @@ int binary_search(int *array, size_t size, int value)
 	{
 		m = (l + r) / 2;
 
-		printf("Searchng in array: ");
+		printf("Searching in array: ");
 		for (i = l; i < r; i++)
 			printf("%d, ", array[i]);
 		printf("%d\n", array[i]);
